@@ -1,2 +1,2 @@
 # edumate
-by Yashvi Singhvi
+
