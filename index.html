@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Guess The Number</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Guess the Number!</h1>
+    <p>I'm thinking of a number between 1 and 100.</p>
+    <p>You have <span id="lives">7</span> lives left.</p>
+
+    <input type="number" id="userGuess" placeholder="Enter your guess" min="1" max="100" />
+    <button id="guessBtn">Guess</button>
+
+    <p id="hintText"></p>
+
+    <div class="prev">
+      <h3>Previous Guesses:</h3>
+      <ul id="guessList"></ul>
+    </div>
+
+    <p id="resultText"></p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
