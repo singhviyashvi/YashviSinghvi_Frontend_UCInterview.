@@ -116,7 +116,11 @@ color:white;
 .subfoot p{ 
     font-size:0.75rem;
 }
-
+@media(max-width:850px){ 
+  html{ 
+    font-size:70%;
+  }
+}
 
 
 
