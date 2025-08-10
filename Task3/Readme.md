@@ -8,4 +8,7 @@ Added transitions and animations.
 
 Screenshots: 
 
-
+![ss](screenshots/task3ss1.png)
+![ss](screenshots/task3ss2.png)
+![ss](screenshots/task3ss3.png)
+![ss](screenshots/task3ss4.png)
