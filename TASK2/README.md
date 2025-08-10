@@ -3,5 +3,5 @@ A simple web-based game where the player tries to guess a randomly generated num
 
 Screenshots: 
 ![start](screenshots/image.png)
-![guess](screenshots/Screenshot 2025-08-10 at 12.49.16 PM.png)
+![guess](screenshots/Screenshot 2025-08-10 at 12.49.32 PM.png)
 ![win](screenshots/Screenshot 2025-08-10 at 12.49.32 PM.png)
