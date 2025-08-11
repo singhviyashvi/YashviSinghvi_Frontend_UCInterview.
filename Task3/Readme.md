@@ -12,3 +12,4 @@ Screenshots:
 ![ss](screenshots/task3ss2.png)
 ![ss](screenshots/task3ss3.png)
 ![ss](screenshots/task3ss4.png)
+![ss](screenshots/image.png)
